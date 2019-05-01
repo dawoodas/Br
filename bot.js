@@ -17,7 +17,7 @@ client.on('message', msg => {
 
 client.on('ready', () => {
     console.log('Bot Is Ready Now !');
-    client.user.setGame(`help`,"http://twitch.tv/xkilleryt")
+    client.user.setGame(`#Riyderz`,"http://twitch.tv/xkilleryt")
     });
 
 
