@@ -38,7 +38,7 @@ if(!message.member.hasPermission('ADMINISTRATOR')) return      message.channel.s
 
 let args = message.content.split(" ").join(" ").slice(2 + prefix.length);
 
-let copy = "SkyBot.";
+let copy = "Riyderzbot.";
 
 let request = `Requested By ${message.author.username}`;
 
